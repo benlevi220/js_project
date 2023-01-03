@@ -1,0 +1,32 @@
+body
+{
+background: url("https://images.pexels.com/photos/13326659/pexels-photo-13326659.jpeg?cs=srgb&dl=pexels-mohan-nannapaneni-13326659.jpg&fm=jpg&w=640&h=427&_gl=1*1gsf2jr*_ga*MjU0NzY3MDA1LjE2NTkzNzUwNjY.*_ga_8JE65Q40S6*MTY3MTI4ODIzNC40LjEuMTY3MTI5MDA2OC4wLjAuMA..");
+background-repeat: no-repeat;
+background-size: 100%;
+direction: rtl;
+
+
+}
+
+h1 {
+    color: darkred;
+    font-family: 'Hanken Grotesk', sans-serif;
+
+  font-size: 55px;
+ background: rgba(0, 0, 255, 0.40)
+   
+}
+
+.benji{
+color: darkred;
+font-style: italic;
+font-size: 40px;
+}
+
+p {
+color: rgb(4, 4, 4);
+font-style: oblique;
+font-size: 35px;
+background: rgba(0, 0, 255, 0.25)
+
+}
